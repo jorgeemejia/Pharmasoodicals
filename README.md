@@ -9,3 +9,5 @@
 * See thier upcoming appointments
 * Search a doctor with a certain specialty in mind
 * Look at the entire list of doctors available
+
+## Take A Look
