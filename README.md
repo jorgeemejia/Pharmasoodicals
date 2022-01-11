@@ -11,4 +11,7 @@
 * Look at the entire list of doctors available
 
 ## Take A Look
-![image](https://user-images.githubusercontent.com/54640013/148888616-ff2af5c6-be80-48e6-b58d-89eba3b78729.png)
+![image](https://user-images.githubusercontent.com/54640013/148888833-3cda8220-cc9c-4fa7-a0bd-fe5d1b614b0a.png)
+![image](https://user-images.githubusercontent.com/54640013/148888876-db969f36-af0c-42ee-b0cb-05a00823d55a.png)
+
+
